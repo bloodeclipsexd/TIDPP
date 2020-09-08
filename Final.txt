@@ -1,0 +1,22 @@
+commit 73265f6345f50294783212ff7606abe6d7db96f8 (HEAD -> master, origin/master)
+Merge: 65027ef d8b5ad4
+Author: Zadoinov Danylo Ti-186
+Date:   Tue Sep 8 22:33:45 2020 +0300
+
+    SecondMerge
+
+commit 65027ef4d19152ef04b8ad44d755bd68efc2b8a9
+Merge: c87eb62 c1fa41e
+Author: Zadoinov Danylo Ti-186
+Date:   Tue Sep 8 22:32:47 2020 +0300
+
+    FirstMerge
+
+commit d8b5ad41f6b87158f28168f6da9de0cf3636872d (origin/SHA-3, SHA-3)
+Author: Zadoinov Danylo Ti-186
+Date:   Tue Sep 8 22:29:59 2020 +0300
+
+    Third
+
+commit c1fa41e86a1214c9d7dedb9c632d259018479d66 (origin/SHA-2, SHA-2)
+Author: Zadoinov Danylo Ti-186
